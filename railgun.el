@@ -1,4 +1,4 @@
-;;; railgun.el - be propelled to the right place by the power of magnets
+;;; railgun.el --- be propelled to the right place by the power of magnets
 
 ;; Copyright (C) 2012 Matt Briggs
 
@@ -501,3 +501,4 @@
 (rg-define-finder lib)
 
 (provide 'railgun)
+;;; railgun.el ends here
